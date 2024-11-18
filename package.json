@@ -1,0 +1,28 @@
+{
+  "name": "loadingstylingserver",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000P\u0000o\u0000l\u0000l\u0000i\u0000n\u0000g\u0000S\u0000e\u0000r\u0000v\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "faker": "^5.5.3",
+    "koa": "^2.15.3",
+    "koa-router": "^13.0.1",
+    "koa-slow": "^2.1.0",
+    "koa-static": "^5.0.0",
+    "pino": "^9.5.0",
+    "pino-pretty": "^13.0.0",
+    "rxjs": "^7.8.1",
+    "workbox-sw": "^7.3.0",
+    "ws": "^8.18.0"
+  }
+}
